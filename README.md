@@ -1,4 +1,4 @@
-# Redis-Sentiner-Docker
+# Redis-Sentinel-Docker
 
 This is an example project which implements redis master slave architecture in Python and deploys it using Docker-Compose. Redis Sentinel has been used to increase availability of the infrastructure
 
